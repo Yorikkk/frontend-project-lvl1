@@ -3,3 +3,6 @@ install: # Install packages
 
 brain-games: # Run game
 	node bin/brain-games
+
+publish: # Publish in NPM
+	npm publish --dry-run
