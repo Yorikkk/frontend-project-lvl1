@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-import checkIsEven from "../src/checkIsEven.js";
-import runChecks from "../src/runChecks.js";
-import greeting from "../src/cli.js";
+import checkIsEven from '../src/checkIsEven.js';
+import runChecks from '../src/runChecks.js';
+import greeting from '../src/cli.js';
 
 const SUCCESS_TRYES_COUNT = 3;
 
