@@ -4,3 +4,5 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/7765307cbd9a37481b1f/maintainability)](https://codeclimate.com/github/Yorikkk/frontend-project-lvl1/maintainability)
 
 [![my-workflow](https://github.com/Yorikkk/frontend-project-lvl1/actions/workflows/my-workflow.yml/badge.svg)](https://github.com/Yorikkk/frontend-project-lvl1/actions/workflows/my-workflow.yml)
+
+[![asciicast](https://asciinema.org/a/488030.svg)](https://asciinema.org/a/488030)
