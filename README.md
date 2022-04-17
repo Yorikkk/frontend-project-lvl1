@@ -6,3 +6,5 @@
 [![my-workflow](https://github.com/Yorikkk/frontend-project-lvl1/actions/workflows/my-workflow.yml/badge.svg)](https://github.com/Yorikkk/frontend-project-lvl1/actions/workflows/my-workflow.yml)
 
 [![asciicast](https://asciinema.org/a/488030.svg)](https://asciinema.org/a/488030)
+
+[![asciicast](https://asciinema.org/a/B6KPelMm32E5O69dJK577GvZm.svg)](https://asciinema.org/a/B6KPelMm32E5O69dJK577GvZm)

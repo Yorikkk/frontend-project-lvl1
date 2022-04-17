@@ -12,3 +12,6 @@ brain-games: # Run game
 
 brain-even: # Run game "Check is even"
 	node bin/brain-even
+
+brain-calc: # Run game "Result of expression"
+	node bin/brain-calc
