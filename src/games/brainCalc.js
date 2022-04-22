@@ -1,15 +1,15 @@
 import questionDialog from '../questionDialog.js';
+import randomNumber from '../randomNumber.js';
+
+const MAX_OPERAND = 100;
 
 const operations = ['+', '-', '*'];
 
-const randomOperation = () => operations[Math.floor(Math.random() * operations.length)];
-
-const randomOperator = () => Math.floor(Math.random() * 100);
-
 const getOperationData = () => {
-  const operation = randomOperation();
-  const operand1 = randomOperator();
-  const operand2 = randomOperator();
+  const operation = operations[randomNumber(operations.length)];
+
+  const operand1 = randomNumber(MAX_OPERAND);
+  const operand2 = randomNumber(MAX_OPERAND);
 
   const result = [`${operand1} ${operation} ${operand2}`];
 

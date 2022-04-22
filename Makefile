@@ -15,3 +15,6 @@ brain-even: # Run game "Check is even"
 
 brain-calc: # Run game "Result of expression"
 	node bin/brain-calc
+
+brain-gcd: # Run game "Greates common divisor"
+	node bin/brain-gcd
