@@ -21,3 +21,6 @@ brain-gcd: # Run game "Greates common divisor"
 
 brain-progression: # Run game "Missing in progression"
 	node bin/brain-progression
+
+brain-prime: # Run game "Check is prime"
+	node bin/brain-prime
