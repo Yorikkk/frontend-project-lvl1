@@ -18,3 +18,6 @@ brain-calc: # Run game "Result of expression"
 
 brain-gcd: # Run game "Greates common divisor"
 	node bin/brain-gcd
+
+brain-progression: # Run game "Missing in progression"
+	node bin/brain-progression
